@@ -1,3 +1,5 @@
 # note that my hw9 notebook was too large for github
 # you should be able to access it here: https://drive.google.com/file/d/1clV3rFpWz-x4xjzJ3o0HQ8gkEsc6d4gn/view?usp=sharing
 # please let me know if you run into any problems!
+
+# and just to be sure, you can access exercise #4 here: https://github.com/lrnbeard/Content-Analysis-2020/blob/master/9-images-exercise4.ipynb
